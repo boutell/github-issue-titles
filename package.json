@@ -1,0 +1,33 @@
+{
+  "name": "github-issue-titles",
+  "version": "0.1.0",
+  "description": "Fetch titles of all issues in a github repository. That's it.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boutell/github-issue-titles"
+  },
+  "keywords": [
+    "github",
+    "issues",
+    "github",
+    "issues"
+  ],
+  "author": "Thomas Boutell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boutell/github-issue-titles/issues"
+  },
+  "homepage": "https://github.com/boutell/github-issue-titles",
+  "dependencies": {
+    "request": "^2.42.0",
+    "yargs": "^1.3.1"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "github-issue-titles": "./bin/github-issue-titles"
+  }
+}
