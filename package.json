@@ -1,7 +1,7 @@
 {
   "name": "github-issue-titles",
   "version": "0.1.0",
-  "description": "Fetch titles of all issues in a github repository. That's it.",
+  "description": "Print out the titles of all the issues in a github repository. Short and sweet.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
