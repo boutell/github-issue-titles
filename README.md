@@ -26,4 +26,6 @@ github-issue-titles boutell noneofyourbusiness punkave apostrophe
 
 ## Changelog
 
+0.1.1: fix permissions in bin.
+
 0.1.0: it lives! Super simple, based on the `request` module.
